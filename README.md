@@ -1,0 +1,3 @@
+# github_studu_python
+CDA老师所教授的python基础知识和基本应用
+文件都是需要用jupyter notebook打开的哈
